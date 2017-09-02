@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTask", "NewTask\NewTask.csproj", "{68C8AEB4-74D2-4CC5-8184-0247F209E3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.ConsoleApp", "Task.ConsoleApp\Task.ConsoleApp.csproj", "{3BD66137-239A-41B1-B0C1-911A9D3D619B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.TrelloPlugin", "Task.TrelloPlugin\Task.TrelloPlugin.csproj", "{A732E6F9-25DD-4847-BD31-35D307D4BD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{983B4DC2-6A0B-4F62-BC0B-588CFE33123B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C8AEB4-74D2-4CC5-8184-0247F209E3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C8AEB4-74D2-4CC5-8184-0247F209E3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C8AEB4-74D2-4CC5-8184-0247F209E3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C8AEB4-74D2-4CC5-8184-0247F209E3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD66137-239A-41B1-B0C1-911A9D3D619B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD66137-239A-41B1-B0C1-911A9D3D619B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD66137-239A-41B1-B0C1-911A9D3D619B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD66137-239A-41B1-B0C1-911A9D3D619B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A732E6F9-25DD-4847-BD31-35D307D4BD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A732E6F9-25DD-4847-BD31-35D307D4BD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A732E6F9-25DD-4847-BD31-35D307D4BD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A732E6F9-25DD-4847-BD31-35D307D4BD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983B4DC2-6A0B-4F62-BC0B-588CFE33123B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983B4DC2-6A0B-4F62-BC0B-588CFE33123B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983B4DC2-6A0B-4F62-BC0B-588CFE33123B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983B4DC2-6A0B-4F62-BC0B-588CFE33123B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DDC56D-3DDF-4748-BD02-9EC2C4215E1D}
+	EndGlobalSection
+EndGlobal

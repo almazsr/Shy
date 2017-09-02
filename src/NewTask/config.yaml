@@ -1,0 +1,8 @@
+Gitlab:
+  Host: https://gitlab.com
+  PrivateToken: fmSewLJPc8E28zoKydVJ
+GoogleApi:
+  ClientSecretPath: D:\projects\NewTask\client_secret.json
+Trello:
+  ApiKey: 2ef04b464b76f09aff0139d499f38f38
+  OAuthToken: ebb55f7e76500968dde69000ccdecc53aa5447ef20d14e4fee81ebe4fbf7f642
