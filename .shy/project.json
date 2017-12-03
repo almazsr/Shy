@@ -1,0 +1,193 @@
+{
+  "Id": "SH",
+  "Name": "shy",
+  "Iterations": [
+    {
+      "Name": "Initial",
+      "Tasks": [
+        {
+          "Id": "SH-1",
+          "Name": "Добавить поиск конфигурации в пути, как в гите",
+          "ExpectedManHours": 2.0,
+          "Assignee": "me",
+          "Priority": 0,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "29.09.17 16:58",
+                "FinishAt": "29.09.17 17:53"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-4",
+          "Name": "Исправить баг: при создании Task не проставляется Expected time",
+          "ExpectedManHours": 1.0,
+          "Assignee": "me",
+          "Priority": 0,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "08.09.17 23:33",
+                "FinishAt": "08.09.17 23:44"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-5",
+          "Name": "Изменить вывод main expected finish at",
+          "ExpectedManHours": 0.5,
+          "Assignee": "me",
+          "Priority": 0,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "09.09.17 00:57",
+                "FinishAt": "09.09.17 01:13"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-6",
+          "Name": "Исправить ошибку при финише таска",
+          "ExpectedManHours": 0.5,
+          "Assignee": "me",
+          "Priority": 0,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "08.09.17 23:47",
+                "FinishAt": "09.09.17 00:06"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-7",
+          "Name": "Добавить вывод Actual в списке тасков",
+          "ExpectedManHours": 0.5,
+          "Assignee": "ctual",
+          "Priority": 1,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "09.09.17 00:08",
+                "FinishAt": "09.09.17 00:41"
+              },
+              {
+                "StartAt": "09.09.17 00:51",
+                "FinishAt": "09.09.17 00:54"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-8",
+          "Name": "Тщательно протестировать логику сложения человеко-часов",
+          "ExpectedManHours": 2.0,
+          "Assignee": "me",
+          "Priority": 1,
+          "Status": "ToDo",
+          "Type": "Testing",
+          "Time": {
+            "Intervals": []
+          }
+        },
+        {
+          "Id": "SH-9",
+          "Name": "Рассмотреть переход на синхронизацию данных",
+          "ExpectedManHours": 1.5,
+          "Assignee": "me",
+          "Priority": 1,
+          "Status": "Done",
+          "Type": "Investigation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "29.09.17 15:41",
+                "FinishAt": "29.09.17 15:59"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-10",
+          "Name": "Исправить ошибку с выводом всех тасков",
+          "ExpectedManHours": 1.0,
+          "Assignee": "me",
+          "Priority": 1,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "29.09.17 16:02",
+                "FinishAt": "29.09.17 16:53"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-11",
+          "Name": "Добавить возможность задания актуальных часов",
+          "ExpectedManHours": 2.0,
+          "Assignee": "0",
+          "Priority": 1,
+          "Status": "Done",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": [
+              {
+                "StartAt": "29.09.17 17:14",
+                "FinishAt": "29.09.17 18:44"
+              }
+            ]
+          }
+        },
+        {
+          "Id": "SH-12",
+          "Name": "Невозможно передвинуться на итерацию назад",
+          "ExpectedManHours": 0.5,
+          "Assignee": "me",
+          "Priority": 1,
+          "Status": "Awaiting",
+          "Type": "Debug",
+          "Time": {
+            "Intervals": []
+          }
+        },
+        {
+          "Id": "SH-13",
+          "Name": "Исправить подсчет остатка времени итерации",
+          "ExpectedManHours": 0.5,
+          "Assignee": "me",
+          "Priority": 1,
+          "Status": "ToDo",
+          "Type": "Implementation",
+          "Time": {
+            "Intervals": []
+          }
+        }
+      ],
+      "ExpectedStartAt": "09.09.17 00:00"
+    },
+    {
+      "Tasks": []
+    }
+  ],
+  "CurrentIterationId": 0,
+  "LastTaskIndex": 13
+}
